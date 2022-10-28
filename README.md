@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JSM-webdev
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning how to code.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi there, I’m @JSM-webdev
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently working on learning coding skills.
 - 📫 How to reach me ...
 
 <!---
