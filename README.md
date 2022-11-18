@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m @JSM-webdev
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently working on learning coding skills.
-- 📫 How to reach me ...
+- 👋 Hi there, My name is Jacqueline.
+- 👀 I’m interested in learning new skills & broadening my knowledge base in Software development.
+- 🌱 I’m currently working on earning a professional certification in Frontend development.
+- 📫 If Interested in reaching out, please feel free on here or on my LinkedIn: linkedin.com/in/jacquelinesmartin
 
 <!---
 JSM-webdev/JSM-webdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
